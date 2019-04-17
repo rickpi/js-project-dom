@@ -4,6 +4,7 @@ Le design a été fait par Jonas Schmedtmann
 
 # But du projet
 Le but de ce projet était d'apprendre à manipuler le DOM<br/>
+Les règles du jeu sont dans la partie Settings
 
 # Pour le tester
 Ouvrir index.html
